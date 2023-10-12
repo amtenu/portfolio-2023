@@ -1,4 +1,4 @@
-const navMenus=[
+export const navMenus=[
     {
         label:'HOME',
         to:'/'
